@@ -59,7 +59,7 @@ export default function ChhotaBheemExperience({
                             01 // CONFLICT
                         </p>
                     </div>
-                    <h2 className="font-body text-5xl md:text-7xl uppercase leading-none font-bold text-white shadow-black drop-shadow-lg">
+                    <h2 className="font-body text-4xl sm:text-5xl md:text-7xl uppercase leading-none font-bold text-white shadow-black drop-shadow-lg">
                         BATTLE FOR<br />DHOLAKPUR
                     </h2>
                     <p className="font-body text-neutral-300 text-lg md:text-xl tracking-widest max-w-md mt-2 drop-shadow-md">
@@ -79,13 +79,13 @@ export default function ChhotaBheemExperience({
                         <div className="w-1 h-1 bg-current rounded-full" />
                     </div>
                     <div className="flex flex-col items-end mt-2 mix-blend-difference gap-1">
-                        <h2 className="font-body text-2xl md:text-4xl uppercase leading-none font-medium tracking-wide">
+                        <h2 className="font-body text-xl sm:text-2xl md:text-4xl uppercase leading-none font-medium tracking-wide">
                             RESOLVING CONFLICT
                         </h2>
-                        <h2 className="font-body text-2xl md:text-4xl uppercase leading-none font-medium tracking-wide">
+                        <h2 className="font-body text-xl sm:text-2xl md:text-4xl uppercase leading-none font-medium tracking-wide">
                             STRENGTH REDEPLOYED
                         </h2>
-                        <h2 className="font-body text-2xl md:text-4xl uppercase leading-none font-bold tracking-wide text-accent-ember">
+                        <h2 className="font-body text-xl sm:text-2xl md:text-4xl uppercase leading-none font-bold tracking-wide text-accent-ember">
                             FROM CHAOS TO CONTROL
                         </h2>
                     </div>
@@ -103,8 +103,8 @@ export default function ChhotaBheemExperience({
                         </p>
                         <div className="w-[1px] h-4 bg-current" />
                     </div>
-                    <h2 className="font-body text-5xl md:text-7xl lg:text-[6rem] uppercase leading-none font-bold tracking-tighter drop-shadow-2xl">
-                        HEROES <span className="text-accent-ember">RETURN</span> HOME
+                    <h2 className="font-body text-4xl sm:text-5xl md:text-7xl lg:text-[6rem] uppercase leading-none font-bold tracking-tighter drop-shadow-2xl">
+                        HEROES <span className="text-accent-ember block sm:inline">RETURN</span> HOME
                     </h2>
                 </motion.div>
             </div>

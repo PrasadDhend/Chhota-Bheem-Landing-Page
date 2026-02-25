@@ -43,7 +43,7 @@ export default function Home() {
           <div className="flex flex-col gap-4">
             <h3 className="font-heading text-xl tracking-[0.2em] text-accent-ember font-bold">CASE STUDY SPECS</h3>
             <ul className="font-body text-neutral-400 space-y-2 text-lg tracking-wide">
-              <li><span className="text-white">Frames:</span> 192 Rendered JPEGs</li>
+              <li><span className="text-white">Frames:</span> 240 Rendered JPEGs</li>
               <li><span className="text-white">Render Engine:</span> Canvas API</li>
               <li><span className="text-white">Scroll Length:</span> 500vh Cinematic Dwell</li>
               <li><span className="text-white">Target Res:</span> High-DPI 4K Support</li>
